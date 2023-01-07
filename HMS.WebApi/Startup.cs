@@ -1,4 +1,7 @@
 using HMS.DAL.Data;
+using HMS.DAL.Interfaces.Repository;
+using HMS.DAL.Repositories;
+using HMS.WebApi.Helper.Extension;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +35,7 @@ namespace HMS.WebApi
             {
                 options.UseSqlServer(Configuration.GetConnectionString("HosDbConnection"));
             });
+            services.AddServices();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
