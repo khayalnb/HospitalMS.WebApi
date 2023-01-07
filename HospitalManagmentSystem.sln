@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMS.WebApi", "HMS.WebApi\HMS.WebApi.csproj", "{F4DC40EA-16F8-4CB3-9809-9061691487A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMS.DAL", "HMS.DAL\HMS.DAL.csproj", "{84CE1D87-0E31-4F60-8935-8A313C33E862}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme file", "Readme file", "{D5A50F21-7E15-4B09-ABC8-004CB279AAA9}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DC40EA-16F8-4CB3-9809-9061691487A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DC40EA-16F8-4CB3-9809-9061691487A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DC40EA-16F8-4CB3-9809-9061691487A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DC40EA-16F8-4CB3-9809-9061691487A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CE1D87-0E31-4F60-8935-8A313C33E862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CE1D87-0E31-4F60-8935-8A313C33E862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CE1D87-0E31-4F60-8935-8A313C33E862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CE1D87-0E31-4F60-8935-8A313C33E862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3512279-EA5F-48E1-AF6A-480C647FD408}
+	EndGlobalSection
+EndGlobal

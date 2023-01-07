@@ -1,0 +1,15 @@
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\bin\Debug\net5.0\HMS.DAL.deps.json
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\bin\Debug\net5.0\HMS.DAL.runtimeconfig.json
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\bin\Debug\net5.0\HMS.DAL.runtimeconfig.dev.json
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\bin\Debug\net5.0\HMS.DAL.dll
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\bin\Debug\net5.0\HMS.DAL.pdb
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.csproj.AssemblyReference.cache
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.AssemblyInfoInputs.cache
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.AssemblyInfo.cs
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.dll
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\refint\HMS.DAL.dll
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.pdb
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\HMS.DAL.genruntimeconfig.cache
+C:\Users\Siyaset\Desktop\C# advanced\HospitalManagmentSystem\HMS.DAL\obj\Debug\net5.0\ref\HMS.DAL.dll
